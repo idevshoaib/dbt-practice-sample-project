@@ -1,0 +1,5 @@
+# dbt Core + the Snowflake adapter (dbt Core will be installed as a dependency of dbt-snowflake)
+dbt-snowflake~=1.10.0
+
+# dbt-autofix for auto-formatting dbt models
+dbt-autofix~=0.13.1

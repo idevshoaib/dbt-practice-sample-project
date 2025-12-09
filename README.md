@@ -1,0 +1,1 @@
+This project is hands-on practice with dbt. 
